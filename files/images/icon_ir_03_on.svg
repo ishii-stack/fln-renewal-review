@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.004" height="20.78" viewBox="0 0 22.004 20.78">
+  <g id="グループ_3148" data-name="グループ 3148" transform="translate(-103.404 -10.351)">
+    <path id="パス_1977" data-name="パス 1977" d="M122.261,10.351H106.546a3.146,3.146,0,0,0-3.142,3.143V27.988a3.145,3.145,0,0,0,3.142,3.143h15.715a3.147,3.147,0,0,0,3.147-3.143V13.494A3.147,3.147,0,0,0,122.261,10.351Zm0,18.537H106.542a.9.9,0,0,1-.9-.9V13.494a.9.9,0,0,1,.9-.9h15.715a.9.9,0,0,1,.9.9l0,7.247,0,7.247A.9.9,0,0,1,122.257,28.888Z" fill="#0092D8" />
+    <g id="レイヤー_2" data-name="レイヤー 2">
+      <g id="icon_data" data-name="icon data">
+        <path id="パス_1978" data-name="パス 1978" d="M108.564,15.649V25.834h11.383" fill="none" stroke="#0092D8" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="パス_1979" data-name="パス 1979" d="M108.564,23.737l4.793-4.793,1.8,1.8,4.916-4.916" fill="none" stroke="#0092D8" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="パス_1980" data-name="パス 1980" d="M117.252,15.649h3v2.7" fill="none" stroke="#0092D8" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
